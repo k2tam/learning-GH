@@ -8,5 +8,5 @@
 import Foundation
 
 struct model{
-    var name = "tam"
+    var name = "khai tam"
 }
